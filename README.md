@@ -1,5 +1,18 @@
 # llmterraingen
-Master's Dissertation Project titled "Generating Dynamic Virtual Environments Using Large Language Models"
+My Master's Dissertation Project: "Generating Dynamic Virtual Environments Using Large Language Models"
+
+## About The Project
+
+**llmterraingen** was a research-driven project that explored the use of Large Language Models (LLMs) to dynamically generate and extend virtual environments. The project integrates LLMs with Minecraft to create procedural terrain generation, analyse user interactions, and evaluate the effectiveness of AI-assisted world-building. 
+
+### Features:
+- **LLM-Driven Terrain Generation** – Uses Google Gemini to generate structured JSON outputs for creating diverse landscapes.  
+- **Custom Minecraft Mod** – Implements unique commands, terrain-altering mechanics, and automated world modifications.  
+- **Quantitative and Qualitative Analysis** – Evaluation of AI-generated terrains using statistical comparisons and user feedback.  
+- **High-Performance Data Processing** – Optimised scripts for processing large datasets, including block data compression and trace analysis.  
+- **Automated Screenshot Capture & Filtering** – Scripts for collecting and curating terrain snapshots for model tuning.  
+- **Multi-Step Experiment Workflow** – Includes tools for analyzing terrain similarity, user study data, and model outputs.  
+
 
 ## Dynamic Content Generation In Action!
 
