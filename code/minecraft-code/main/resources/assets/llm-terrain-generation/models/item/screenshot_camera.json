@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "llm-terrain-generation:item/screenshot_camera"
+  }
+}

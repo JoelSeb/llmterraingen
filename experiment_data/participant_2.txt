@@ -1,0 +1,16 @@
+Task Order: [3, 1, 2]
+Terrain Order: [R2, L1, R1, R1, L1, R2, /R2/, _, _]
+Task Results: [0, 0, 0, 0, 2, 0, _, _, _ ]
+
+True Odd Ones:      [L, L, _]
+Chosen Odd Ones:    [R, R, _]
+Sureness:           [0, 0.33, _]
+Enjoyment:          [0.98, 1, 1, 1, 0.98, 0.82, 1, _, _]
+Difficulty:         [0.78, 0.75, 0.73, 0.59, 0.52, 0.93, 0.83, _, _]
+
+Total Enjoyment: 4
+How Often: Monthly
+Genre(s): RPG;Casual;Strategy;
+Gender: F
+Platform: PC
+Ability: Complete Beginner

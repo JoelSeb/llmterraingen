@@ -1,0 +1,10 @@
+{
+  "item.llm-terrain-generation.area_analyser": "Area Analyser",
+  "item.llm-terrain-generation.biome_sampler": "Biome Sampler",
+  "item.llm-terrain-generation.large_region_saver": "Large Region Saver",
+  "item.llm-terrain-generation.terrain_generator": "Terrain Generator",
+  "item.llm-terrain-generation.alternate_terrain_generator": "Alternate Terrain Generator",
+  "item.llm-terrain-generation.terrain_generator.tooltip": "Placing this item in a different hotbar slot generates a different terrain!",
+  "item.llm-terrain-generation.debug_wand": "Debug Wand",
+  "item.llm-terrain-generation.screenshot_camera": "Screenshot Camera"
+}

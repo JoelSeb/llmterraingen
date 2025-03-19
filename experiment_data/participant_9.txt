@@ -1,0 +1,16 @@
+Task Order: [1, 2, 3]
+Terrain Order: [L1, R1, R2, L2, L1, R2, R1, R2, L1]
+Task Results: [2, 0, 0, 16, -23, 57, 4, 0, 4]
+
+True Odd Ones:      [L, R, L]
+Chosen Odd Ones:    [R, R, L]
+Sureness:           [0.5, 0.74, 0.64]
+Enjoyment:          [0.33, 0.15, 0.3, 0.25, 0.27, 0.2, 0.28, 0.17, 0.17]
+Difficulty:         [0.05, 0.06, 0.1, 0.14, 0.15, 0.22, 0.23, 0.3, 0.27]
+
+Total Enjoyment: 3
+How Often: Weekly
+Genre(s): Action;RPG;Adventure;Casual;Sandbox
+Gender: M
+Platform: PC
+Ability: Veteran

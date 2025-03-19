@@ -1,0 +1,55 @@
+{
+    "start": { "x": 0, "y": 70, "z": 0 },
+    "mappings": [
+      { "block": "minecraft:air", "symbol": "A" },
+      { "block": "minecraft:stone", "symbol": "S" },
+      { "block": "minecraft:dirt", "symbol": "D" },
+      { "block": "minecraft:grass_block", "symbol": "G" },
+      { "block": "minecraft:water", "symbol": "W" },
+      { "block": "minecraft:gravel", "symbol": "R" },
+      { "block": "minecraft:sand", "symbol": "N" },
+      { "block": "minecraft:tall_grass", "symbol": "T" },
+      { "block": "minecraft:dandelion", "symbol": "L" },
+      { "block": "minecraft:poppy", "symbol": "P" },
+      {"block": "minecraft:oxeye_daisy", "symbol": "O"}
+    ],
+    "grids": [
+      { "grid": [
+        ["78A1S1D9G5W2R2N14G3A2L2P"],
+        ["80A4D6G7W1A4N1S11G3T1O"], 
+        ["82A2D4G9W15A1R2D2S4G2L1P"],
+        ["84A1D2G11W3A5N1S8G1T2O"],  
+        ["86A4D1G10W1A6R2D3G12N"], 
+        ["88A2D5G2W8A3S2D1GR9L1T"],   
+        ["90A3D2G4W1A9N2D1G5L3P"],  
+        ["92A1S1D1G14W2R2A8G1OA1T1L"],
+        ["45A1S9D1G12W2N24G1O1A3T"], 
+        ["48A4S5D18G3W5N12G14A2O1L"],
+        ["50A2S2D15G5W3A11N1D1S1G9L3P"],
+        ["52A3D12G7W1N1A6S1D4G11T1P1O"],
+        ["54A1D9G9W16A2R1D1S1G10N"],
+        ["56A7D6G10W14A2R1S9G"],
+        ["58A4D3G8W11A2N2D6G2T"],
+        ["60A2D2G10W9A3R1S1G1L5O1T"]    
+      ], "y": 70 },
+      { "grid": [
+        ["85A2D1G4W1R3N16G1A1O3T2L"], 
+        ["87A4D4G7W5A2N1D1S1G10O"], 
+        ["89A3D2G6W3A1N1D2S4G3L1P1T"],
+        ["91A1D3G9W1A5N3D1G6L1O"],
+        ["93A4D1G8W4N1S2GR7A2T2L"],
+        ["95A3D3G4W2N1D4S5G1L2O"], 
+        ["97A2D2G6W1A2R4D2S1G11N"],
+        ["99A1S1D11G18W1R1D1S2G9A1T1O"],
+        ["48A3S4D2G5W14N1A5G1O1T"],
+        ["50A2S1D18G4W2N9G12A2L2T"],
+        ["52A1D14G6W1A11N2D4S3G1P"],
+        ["54A4D11G6W3A10N1R10S2L"],
+        ["56A1D7G9W2A15N2D2S1G6O"],
+        ["58A2D5G11W1A17R2S3D8G"],
+        ["60A3D3G7W1A19N3S6L1O"],
+        ["62A2D3G5W1N21A1D1GR8S2L1P"]  
+          
+      ], "y": 71 }
+    ]
+  }

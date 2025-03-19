@@ -1,0 +1,12 @@
+/generate hill -256 0 -1 255 25 1492
+/generate river -240 30 -10 220 4 654
+/generate lake -150 150 circle 15
+/generate lake -80 70 circle 10
+/generate forest -200 50 25 low oak 3378
+/generate forest -100 200 32 med birch 9152
+/generate forest -128 20 28 med any 156
+/generate grass -64 64 68 med
+/generate grass -192 64 68 med
+/generate grass -64 192 68 med
+/generate grass -192 192 68 med
+/generate flowers -256 0 -1 255 low 4444

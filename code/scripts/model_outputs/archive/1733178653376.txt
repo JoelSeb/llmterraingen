@@ -1,0 +1,12 @@
+Here are four quantifiable tasks suitable for your generated plains and regular Minecraft plains, designed for a 3-minute time limit:
+
+1. **Flower Power:** Challenge participants to collect as many different types of flowers as possible within the time limit.  This is easily quantifiable by counting the number of different flower species gathered.  It encourages quick exploration and familiarity with the plains biome's flora.  You can adjust the difficulty by including rarer flower types or requiring specific quantities of each.
+
+2. **Treetop Takeover:**  Task participants with building the highest structure they can using only wood (logs, planks, etc.) within the 3 minutes.  This tests building speed, efficiency, and planning.  The height of the structure is the quantifiable metric.  The plains provide ample wood, making it a fair test of building skill.
+
+3. **Seed Sprint:** Challenge participants to find and collect as many different types of seeds (wheat, pumpkin, melon, beetroot, etc.) as possible in the time limit.  This is easily quantifiable by the number of seed types found.  It encourages rapid exploration and tests knowledge of plains-related resources.  You can adjust difficulty by requiring specific quantities or including rarer seeds.
+
+4. **Wool Rush:**  Provide participants with shears and task them with collecting as much wool of different colors as possible within the 3 minutes.  This encourages players to find and shear sheep, a common plains mob.  The quantity and variety of wool collected are the quantifiable measures.  You can manipulate sheep spawn rates in your generated terrain for more control over the task's difficulty.
+
+
+These tasks are quick, focused, and provide clear metrics for comparison between participants and across different terrains.  They also allow participants to engage with the core elements of the plains biome (flora, fauna, resources) within the short time frame.  The quantifiable nature of the tasks makes them suitable for your experimental setup.

@@ -1,0 +1,55 @@
+{
+    "start": { "x": 0, "y": 68, "z": 0 },
+    "mappings": [
+      { "block": "minecraft:air", "symbol": "A" },
+      { "block": "minecraft:stone", "symbol": "S" },
+      { "block": "minecraft:dirt", "symbol": "D" },
+      { "block": "minecraft:grass_block", "symbol": "G" },
+      { "block": "minecraft:water", "symbol": "W" },
+      { "block": "minecraft:gravel", "symbol": "R" },
+      { "block": "minecraft:sand", "symbol": "N" },
+      { "block": "minecraft:tall_grass", "symbol": "T" },
+      { "block": "minecraft:dandelion", "symbol": "L" },
+      { "block": "minecraft:poppy", "symbol": "P" },
+      {"block": "minecraft:oxeye_daisy", "symbol": "O"}
+    ],
+    "grids": [
+      { "grid": [
+        ["55A2S3D15G8W1A12N2D5G1P2O1T"],
+        ["57A1S1D13G10W3A4R2G2L1P"],
+        ["59A3D10G6W2A1N1S10G6O1T"],
+        ["61A1D8G8W4A3N2D5G2L1P"],
+        ["63A4D6G5W2A1N2S7G8L1T"],  
+        ["65A2D4G7W6A5R1D4G9P1O"],
+        ["67A1D2G9W4A7N2S2G1L3P2T"],
+        ["69A2S12D2G8W1R1S10G8A1O1T"],
+        ["71A1D10G4W1A10N4D1S4G3P2O2T"],
+        ["73A15D2G7W4N1G10A1O1T1L"], 
+        ["75A2S13D20G12W1A2N1D1S1G14O"],
+        ["77A12D1S18G13W3N1D1S2G7L1P"],
+        ["79A10D4A17G15W1A5N1D1S3G10P1O"],
+        ["81A8D4G15W1A3R1D1S1G16N"],
+        ["83A7D2G17W2N1G4A2D1S4G11L1P"],
+        ["85A6D1G17W2A5N2R8G4P3O"]
+  
+      ], "y": 68 },
+      { "grid": [ 
+        ["70A1S2D12G8W2R1N10G1A1P4O"],
+        ["72A4D9G7W3A2N1S12G2T2L"],
+        ["74A2D7G9W1A1R1D9G4P1O1T"],
+        ["76A1D5G11W2A3N1D7G7L"],
+        ["78A3D3G10W1A2S5G12N2T1L"],
+        ["80A1D1G12W6A3N2D2S7G1O2T"],
+        ["82A2D25G14W1N1D2S4GR9L1P"], 
+        ["84A1S1D11G15W1R1D8G7A2N2O"], 
+        ["86A4D9G6W1N1G13A2T2L"], 
+        ["88A2D7G8W1A2N3S1D1G10O1T1L1P"],
+        ["90A2S1D20G16W1N1D1S2G10A4T1L"],
+        ["40A4S3D10G5W1N23G8A2R1D2G4L2T2P"], 
+        ["42A3S3D8G7W2A15N1D1S2G11L2O"],
+        ["44A2S2D6G9W1A18N4S1G1L1T1P"],
+        ["46A1S1D4G11W15A1R3D10G2T"],
+        ["48A5D1G11W13A2N4S1G5L2O"]      
+      ], "y": 69 }
+    ]
+  }

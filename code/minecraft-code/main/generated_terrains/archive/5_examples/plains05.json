@@ -1,0 +1,55 @@
+{
+    "start": { "x": 0, "y": 72, "z": 0 },
+    "mappings": [
+      { "block": "minecraft:air", "symbol": "A" },
+      { "block": "minecraft:stone", "symbol": "S" },
+      { "block": "minecraft:dirt", "symbol": "D" },
+      { "block": "minecraft:grass_block", "symbol": "G" },
+      { "block": "minecraft:water", "symbol": "W" },
+      { "block": "minecraft:gravel", "symbol": "R" },
+      { "block": "minecraft:sand", "symbol": "N" },
+      { "block": "minecraft:tall_grass", "symbol": "T" },
+      { "block": "minecraft:dandelion", "symbol": "L" },
+      { "block": "minecraft:poppy", "symbol": "P" },
+      {"block": "minecraft:oxeye_daisy", "symbol": "O"}
+    ],
+    "grids": [
+      { "grid": [ 
+        ["88A1D2S5G2W14N1G1A2T1L1P2O"], 
+        ["90A4D4G3W5A1N2S8G2O3T"],
+        ["92A2D2G5W3A2R1S7G1L2T1P"],
+        ["94A3D1G7W1A4N2D2S1G5L3P"],
+        ["96A2S1D5G4W2A2R6G1O1T"],
+        ["98A1D3G2W16A1S3D1G4L2P2O"], 
+        ["100A2D24G1W1A2N1S11G1P3O2T"],
+        ["102A1S1D22G3W1A4R2D2S1G10N1T"], 
+        ["104A3D20G1W2N12G3A3O1T"],
+        ["106A2D19G3W1R1D1G15A1N2P"], 
+        ["108A1D1GR16G4W4A4N1D1S1G10L"], 
+        ["110A5D13G2W6A3R1S9G3L1P2T"],
+        ["112A3D10G4W4A2N5S1D2G1T2L"], 
+        ["114A2D8G6W2A1R1D1S12G5P3O"],
+        ["116A1D7G8W1A3N2D4G1L1T1P"],
+        ["118A4D6G4W4N2A1S3D1G11O2T"]    
+      ], "y": 72 },
+      { "grid": [
+        ["92A1D1S3G1W2N17G4A1L1O3T"],
+        ["94A3D3G2W4A3N1D1G8L1T"],
+        ["96A2D1G5W2A1N1D1S1G11P2O"],
+        ["98A1S2D3G1W1A1R4G10L4T"], 
+        ["100A4D1G1W7A2N2S1G14P1O"],
+        ["102A3D3G2W5A1R4S1G11N3T"], 
+        ["104A2D3G10W1A4N1D2S1G5L4P1O"],
+        ["106A1S2D3GR9W3N12G1A3P1L"],
+        ["108A2D22G2W1A4N24G1T2O"],
+        ["110A1D1S20G5W2A2R3D2G14N"],
+        ["112A28G16W2A1N1S4D1G10L"],
+        ["50A1S4D10G1W2N20G16A3P1T"], 
+        ["52A4D8G7W1A8N1R1S1G15L"],
+        ["54A3D6G9W4A11N1D2S3G2T1O"],
+        ["56A2D2G13W3A4R1D5G6L2P"],
+        ["58A1D4G10W2A15N1GR9S1L3P"]
+      ], "y": 73 }
+  
+    ]
+  }

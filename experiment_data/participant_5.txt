@@ -1,0 +1,16 @@
+Task Order: [1, 2, 3]
+Terrain Order: [L?, R?, R?, L2, R2, R1, L1, R2, L2]
+Task Results: [8, 0, 0, 33, 6, 51, 0, 0, 5]
+
+True Odd Ones:      [L, L, R]
+Chosen Odd Ones:    [L, L, L]
+Sureness:           [0.99, 0.88, 0.18]
+Enjoyment:          [0.17, 0, 0, 0.39, 0.21, 0.22, 0.1, 0.1, 0.3]
+Difficulty:         [0, 0.75, 1, 0.14, 0.5, 0.21, 0.96, 0.46, 0.48]
+
+Total Enjoyment: 2
+How Often: Weekly
+Genre(s): RPG;Action
+Gender: M
+Platform: Mobile Phone
+Ability: Veteran

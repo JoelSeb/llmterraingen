@@ -1,0 +1,56 @@
+{
+    "start": { "x": 0, "y": 74, "z": 0 },
+    "mappings": [
+      { "block": "minecraft:air", "symbol": "A" },
+      { "block": "minecraft:stone", "symbol": "S" },
+      { "block": "minecraft:dirt", "symbol": "D" },
+      { "block": "minecraft:grass_block", "symbol": "G" },
+      { "block": "minecraft:water", "symbol": "W" },
+      { "block": "minecraft:gravel", "symbol": "R" },
+      { "block": "minecraft:sand", "symbol": "N" },
+      { "block": "minecraft:tall_grass", "symbol": "T" },
+      { "block": "minecraft:dandelion", "symbol": "L" },
+      { "block": "minecraft:poppy", "symbol": "P" },
+      {"block": "minecraft:oxeye_daisy", "symbol": "O"}
+    ],
+    "grids": [
+      { "grid": [
+        ["95A1D1S2G1W1R8N2G12A2T1L3P"],
+        ["97A3D2G2W3A4N1D1S1G7O2T"],
+        ["99A1D1G4W1A2R1D4G11L1P"],
+        ["101A3G1W5A3N2S1D5G1T1L2P"],
+        ["103A1S2D3G2W2A1N1R7G8L3T"],
+        ["105A5D1G1W4A4R1S2G13N2P"], 
+        ["107A3D14G1W1A3N1D1S2G6O1T"],
+        ["109A2S1D10G3W2A4N1GR9L1P"], 
+        ["111A4D7G5W1A6N3D2G1T4L"],
+        ["113A2D5G7W3A3R1S10G2T1O"],
+        ["115A3D2GR11G2W1A1S1D1G1L5P"],
+        ["55A1D2S1G1W2N19G15A3T2O"],
+        ["57A4D4G3W4A12N1D1S1GR8L"], 
+        ["59A2D3G5W2A14N4S2G1P1T"],
+        ["61A1D1GR7W1A17N2D1G2L1O"],
+        ["63A4D4G2W4A12N1S1R11G3T"]
+  
+      ], "y": 74 },
+      { "grid": [ 
+          ["98A2G1L1P5O14A1S1D2R3N1G1W"],
+          ["100A4G3T2L1A1S1D2N8G1W1R"],
+          ["102A3G1T1L3P12A2S1D1N1G1W1R"],
+          ["104A2G1L3P1A1S1D5G10W2R2N"],
+          ["106A4G1L1P1O1A4S2D4GR12W2N"],
+          ["108A2G2T2P3O2S1D1N10G1W4A"],
+          ["110A1GR3T1P3O1S2D11G12W2A"],
+          ["112A2S3G2L1T12A1D3N1R4G5W"],
+          ["58A2S1D5G1N4W2G17A1P1O2T"],
+          ["60A1D2S4GR7W2A2N1G8L3T"],
+          ["62A3D1GR9G1W3N1A1S1D2G10P"],
+          ["64A2S1D2R8G1N1W4A3G14L"],
+          ["66A3S1D3G4W2N2A8G1O1T"],
+          ["68A1D2S1GR5G1W2A1N1D1S1G12P1O1T"],
+          ["70A4D3G2W5N2G3A2L3T1P"],
+          ["72A2D1S1GR8G2W1N1A1D1S1G2O3T1L1P"]
+      ], "y": 75 }
+  
+    ]
+  }

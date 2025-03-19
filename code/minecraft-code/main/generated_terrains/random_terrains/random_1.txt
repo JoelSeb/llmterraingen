@@ -1,0 +1,364 @@
+Global Seed: 83
+
+Tile: Central
+/generate hill 156 244 159 249 13 864
+/generate hill 251 38 251 104 27 153
+/generate hill 34 26 56 192 37 917
+/generate hill 181 171 245 242 39 854
+/generate hill 91 221 220 225 40 489
+/generate hill 98 249 177 249 37 435
+/generate hill 203 47 238 189 8 628
+/generate river 236 92 102 137 12 957
+/generate river 83 170 179 39 7 426
+/generate river 2 118 197 128 14 953
+/generate river 198 205 80 34 2 250
+/generate river 109 203 130 141 20 572
+/generate river 246 223 111 246 15 857
+/generate river 169 96 27 149 18 976
+/generate lake 253 202 square 53 49
+/generate lake 233 79 circle 39
+/generate lake 169 79 circle 10
+/generate lake 141 107 square 30 50
+/generate lake 52 222 square 23 20
+/generate lake 60 188 circle 6
+/generate lake 246 57 circle 27
+/generate lake 236 88 square 36 18
+/generate lake 138 151 circle 51
+/generate village 195 170
+/generate forest 193 57 15 high birch 591
+/generate forest 53 29 11 med oak 181
+/generate forest 195 90 30 med oak 770
+/generate grass 177 177 35 low
+/generate grass 148 42 2 low
+/generate grass 101 254 5 low
+/generate grass 22 189 4 low
+/generate grass 139 201 35 low
+/generate grass 55 84 22 med
+/generate grass 169 96 46 low
+/generate grass 100 91 36 low
+/generate grass 113 81 2 low
+/generate grass 109 101 6 low
+/generate grass 205 232 32 low
+/generate grass 74 195 3 low
+/generate grass 126 195 27 low
+/generate grass 109 127 26 low
+/generate grass 228 45 29 low
+/generate grass 10 101 47 low
+/generate grass 157 129 6 low
+/generate grass 210 141 28 low
+/generate grass 177 19 16 low
+/generate grass 71 124 2 low
+/generate grass 93 175 36 low
+/generate grass 91 254 9 low
+/generate grass 53 29 22 low
+/generate grass 127 134 11 med
+/generate flowers 30 233 16 low 126
+/generate flowers 161 135 6 low 483
+/generate flowers 59 242 11 low 525
+/generate flowers 115 109 50 low 612
+/generate flowers 50 147 50 low 968
+/generate flowers 164 87 29 high 881
+/generate flowers 195 90 50 low 770
+/generate flowers 177 177 35 low 905
+/generate flowers 148 42 2 low 23
+/generate flowers 101 254 5 low 433
+
+Tile: North
+/generate river 22 445 27 432 1 633
+/generate river 139 457 215 444 12 80
+/generate river 110 284 118 511 3 545
+/generate river 232 491 104 506 7 392
+/generate river 53 498 158 277 15 326
+/generate river 173 382 142 355 7 415
+/generate river 89 264 38 357 5 933
+/generate lake 81 312 square 22 59
+/generate lake 137 283 square 55 24
+/generate lake 129 259 square 33 21
+/generate lake 227 503 circle 7
+/generate lake 75 439 circle 36
+/generate forest 161 461 27 low birch 579
+/generate forest 116 483 12 low oak 665
+/generate forest 143 402 8 low birch 919
+/generate forest 110 511 14 low oak 177
+/generate forest 227 503 8 low any 996
+/generate forest 64 482 19 low birch 531
+/generate grass 188 478 4 low
+/generate grass 106 298 48 low
+/generate grass 121 263 14 med
+/generate grass 129 259 33 low
+/generate grass 197 437 6 low
+/generate grass 242 421 25 low
+/generate grass 236 348 50 low
+/generate grass 169 335 46 low
+/generate grass 1 283 43 low
+/generate grass 56 467 18 low
+/generate grass 203 299 38 low
+/generate flowers 129 410 38 low 493
+/generate flowers 221 462 13 low 517
+/generate flowers 6 403 3 low 815
+
+Tile: East
+/generate hill 356 233 384 238 1 314
+/generate hill 356 78 462 105 19 645
+/generate hill 501 141 505 166 5 27
+/generate hill 292 159 403 190 29 66
+/generate hill 460 252 494 255 16 301
+/generate hill 317 208 372 232 28 972
+/generate hill 347 183 367 221 2 270
+/generate hill 293 239 423 244 5 592
+/generate hill 465 104 487 176 24 151
+/generate river 349 159 306 185 10 118
+/generate river 445 24 396 110 6 786
+/generate river 320 240 354 151 2 594
+/generate river 436 32 476 232 19 47
+/generate river 433 164 395 163 10 351
+/generate river 321 112 263 225 17 634
+/generate river 334 109 350 28 10 526
+/generate river 447 161 342 1 14 393
+/generate river 391 152 386 213 13 469
+/generate lake 356 105 circle 3
+/generate lake 263 67 circle 2
+/generate lake 265 171 square 43 1
+/generate lake 446 181 square 37 17
+/generate lake 334 109 circle 4
+/generate lake 464 243 circle 53
+/generate lake 471 219 circle 5
+/generate lake 375 186 circle 45
+/generate lake 466 7 square 27 52
+/generate lake 274 96 square 1 55
+/generate forest 377 7 7 low any 551
+/generate forest 481 135 18 low birch 408
+/generate forest 355 219 26 low any 97
+/generate grass 464 9 36 med
+/generate grass 508 87 32 low
+/generate grass 430 190 43 med
+/generate grass 330 195 3 low
+/generate grass 382 195 27 low
+/generate grass 365 127 26 low
+/generate grass 484 45 29 low
+/generate grass 266 101 47 low
+/generate grass 413 129 6 low
+/generate grass 466 141 28 low
+/generate grass 433 19 16 low
+/generate flowers 418 210 7 low 257
+
+Tile: South
+/generate hill 143 -202 182 -46 36 544
+/generate hill 144 -58 216 -21 30 285
+/generate hill 65 -4 72 -3 1 95
+/generate hill 118 -63 137 -21 12 615
+/generate river 251 -101 184 -138 4 821
+/generate river 245 -21 44 -83 1 804
+/generate lake 64 -109 square 5 29
+/generate village 105 -103
+/generate forest 200 -180 14 med any 956
+/generate forest 220 -106 4 low birch 901
+/generate forest 169 -160 28 low birch 976
+/generate forest 100 -165 18 low birch 561
+/generate forest 82 -102 27 low oak 230
+/generate forest 103 -16 6 med any 549
+/generate forest 246 -44 20 high any 498
+/generate grass 11 -108 46 low
+/generate grass 139 -172 36 low
+/generate grass 209 -60 38 med
+/generate grass 186 -132 33 low
+/generate grass 20 -121 19 low
+/generate grass 132 -29 8 low
+/generate grass 20 -210 28 med
+/generate grass 76 -125 20 low
+/generate grass 133 -141 31 low
+/generate grass 40 -5 31 low
+/generate grass 65 -93 23 low
+/generate grass 250 -98 28 med
+/generate grass 128 -12 23 low
+/generate grass 236 -168 20 med
+/generate grass 138 -105 4 low
+/generate grass 195 -86 15 low
+/generate grass 244 -177 39 high
+/generate grass 54 -202 41 low
+/generate grass 137 -229 16 low
+/generate grass 22 -206 2 low
+/generate grass 129 -32 22 low
+/generate grass 113 -175 2 low
+/generate grass 109 -155 6 low
+/generate grass 205 -24 32 low
+/generate grass 74 -61 3 low
+/generate flowers 253 -170 16 low 237
+/generate flowers 88 -223 16 low 62
+
+Tile: West
+/generate hill -20 10 -8 14 13 317
+/generate hill -61 208 -6 217 15 253
+/generate hill -13 63 -3 219 26 64
+/generate hill -153 240 -112 255 12 549
+/generate hill -112 240 -72 255 5 295
+/generate hill -188 41 -32 147 37 937
+/generate hill -67 253 -22 253 25 236
+/generate river -61 90 -25 64 2 770
+/generate river -222 249 -167 43 11 842
+/generate lake -177 217 circle 3
+/generate lake -137 242 square 47 25
+/generate lake -155 187 circle 59
+/generate lake -51 170 square 5 20
+/generate lake -141 109 circle 56
+/generate lake -182 235 square 50 12
+/generate lake -179 93 square 58 35
+/generate lake -46 7 square 27 52
+/generate lake -238 96 square 1 55
+/generate lake -71 240 square 19 27
+/generate forest -236 225 28 low any 728
+/generate forest -73 115 12 low any 649
+/generate forest -144 28 5 low any 981
+/generate forest -89 151 19 low birch 729
+/generate forest -118 142 20 low any 249
+/generate forest -165 162 18 med any 648
+/generate forest -111 100 25 high oak 115
+/generate grass -195 107 38 low
+/generate grass -113 62 33 low
+/generate grass -77 243 38 low
+/generate flowers -60 93 14 low 24
+/generate flowers -229 246 7 high 198
+
+Tile: NorthEast
+/generate hill 371 369 436 450 8 761
+/generate hill 438 433 503 486 1 595
+/generate hill 327 371 463 481 17 229
+/generate hill 284 410 449 418 35 845
+/generate hill 372 447 396 457 16 900
+/generate hill 385 291 394 300 32 736
+/generate hill 330 491 446 496 26 100
+/generate hill 489 484 509 489 28 749
+/generate hill 313 325 472 403 4 323
+/generate hill 498 352 508 498 30 556
+/generate river 310 303 385 352 19 880
+/generate river 483 503 372 309 4 996
+/generate river 439 393 257 317 10 940
+/generate river 324 297 469 374 18 937
+/generate river 493 327 286 467 3 424
+/generate river 327 371 476 391 7 229
+/generate river 459 303 314 495 5 628
+/generate river 284 410 288 329 19 845
+/generate lake 393 283 square 55 24
+/generate lake 385 259 square 33 21
+/generate lake 483 503 circle 7
+/generate forest 374 412 8 low birch 360
+/generate forest 283 271 1 med oak 987
+/generate forest 445 493 13 low oak 76
+/generate forest 326 480 18 low birch 54
+/generate forest 436 468 18 low birch 389
+/generate grass 473 322 2 low
+/generate grass 499 319 41 low
+/generate grass 359 496 11 low
+/generate grass 266 294 43 high
+/generate grass 261 340 40 low
+/generate grass 372 447 49 low
+/generate grass 358 310 21 low
+/generate flowers 482 502 35 low 796
+/generate flowers 466 263 39 low 447
+/generate flowers 384 500 23 low 826
+
+Tile: SouthEast
+/generate hill 492 -168 501 -26 18 193
+/generate hill 394 -105 400 -4 26 538
+/generate lake 276 -210 square 39 59
+/generate lake 332 -125 square 18 22
+/generate village 438 -80
+/generate grass 290 -7 12 low
+/generate grass 433 -92 47 low
+/generate grass 401 -236 2 low
+/generate grass 472 -176 26 low
+/generate grass 404 -173 43 low
+/generate grass 413 -173 34 low
+/generate grass 428 -22 5 low
+/generate grass 436 -158 27 low
+/generate grass 501 -180 36 low
+/generate grass 439 -141 23 med
+/generate grass 374 -63 5 low
+/generate grass 313 -17 42 low
+/generate grass 425 -145 24 low
+/generate grass 502 -183 32 low
+/generate grass 294 -59 48 low
+/generate flowers 284 -210 6 low 2
+/generate flowers 421 -7 43 low 173
+
+Tile: SouthWest
+/generate hill -189 -152 -9 -28 39 608
+/generate hill -166 -126 -101 -88 7 951
+/generate hill -126 -4 -41 -1 18 421
+/generate hill -129 -42 -29 -31 1 332
+/generate hill -185 -141 -49 -31 17 229
+/generate hill -228 -102 -63 -94 35 845
+/generate hill -140 -65 -116 -55 16 900
+/generate hill -127 -221 -118 -212 32 736
+/generate river -211 -24 -250 -145 11 390
+/generate lake -98 -27 circle 41
+/generate lake -188 -215 square 37 15
+/generate lake -233 -218 square 21 50
+/generate lake -198 -166 square 20 38
+/generate lake -25 -63 circle 50
+/generate lake -192 -246 square 25 17
+/generate lake -198 -67 square 12 15
+/generate lake -146 -228 circle 32
+/generate lake -182 -32 square 39 11
+/generate lake -226 -58 square 5 47
+/generate village -183 -216
+/generate forest -114 -254 6 low birch 124
+/generate forest -173 -86 24 med oak 426
+/generate forest -252 -216 10 low oak 206
+/generate forest -152 -217 28 high oak 862
+/generate forest -163 -109 25 low any 995
+/generate forest -101 -202 19 med oak 988
+/generate forest -173 -38 16 low oak 313
+/generate forest -211 -79 6 med oak 858
+/generate forest -152 -170 8 low any 161
+/generate forest -224 -153 30 med any 604
+/generate grass -137 -70 16 low
+/generate grass -25 -76 15 low
+/generate grass -226 -29 21 low
+/generate grass -21 -118 40 low
+/generate grass -50 -182 15 med
+/generate grass -203 -151 23 low
+/generate grass -151 -251 14 low
+/generate grass -29 -136 4 med
+/generate grass -124 -252 19 low
+/generate grass -69 -29 40 low
+/generate grass -155 -2 5 low
+/generate grass -234 -67 4 low
+/generate flowers -19 -65 18 low 9
+/generate flowers -3 -62 32 low 887
+/generate flowers -34 -10 47 med 205
+/generate flowers -196 -155 2 low 866
+/generate flowers -22 -57 46 low 911
+
+Tile: NorthWest
+/generate hill -65 397 -3 434 8 135
+/generate hill -152 497 -11 511 6 463
+/generate hill -129 390 -89 472 36 855
+/generate hill -226 489 -163 509 12 126
+/generate hill -95 391 -85 391 3 483
+/generate hill -197 498 -154 508 12 525
+/generate river -148 417 -4 355 13 111
+/generate river -173 426 -77 295 7 426
+/generate river -254 374 -59 384 14 953
+/generate river -58 461 -176 290 2 250
+/generate river -147 459 -126 397 20 572
+/generate river -10 479 -145 502 15 857
+/generate river -87 352 -229 405 18 976
+/generate river -121 432 -31 332 20 600
+/generate river -198 281 -23 352 2 952
+/generate lake -199 268 square 16 15
+/generate lake -7 340 square 19 23
+/generate village -49 411
+/generate forest -93 349 7 low birch 348
+/generate forest -214 344 22 low birch 91
+/generate forest -122 372 30 low birch 971
+/generate forest -91 260 9 low oak 71
+/generate grass -53 299 38 med
+/generate grass -126 508 43 low
+/generate grass -129 470 45 low
+/generate grass -203 285 22 low
+/generate flowers -61 346 50 med 770
+/generate flowers -79 433 35 low 905
+/generate flowers -108 298 2 low 23
+/generate flowers -155 510 5 low 433
+/generate flowers -234 445 4 low 633

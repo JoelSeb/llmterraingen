@@ -1,0 +1,54 @@
+{
+    "start": { "x": 0, "y": 66, "z": 0 },
+    "mappings": [
+      { "block": "minecraft:air", "symbol": "A" },
+      { "block": "minecraft:stone", "symbol": "S" },
+      { "block": "minecraft:dirt", "symbol": "D" },
+      { "block": "minecraft:grass_block", "symbol": "G" },
+      { "block": "minecraft:water", "symbol": "W" },
+      { "block": "minecraft:gravel", "symbol": "R" },
+      { "block": "minecraft:sand", "symbol": "N" },
+      { "block": "minecraft:tall_grass", "symbol": "T" },
+      { "block": "minecraft:dandelion", "symbol": "L" },
+      { "block": "minecraft:poppy", "symbol": "P" },
+      {"block": "minecraft:oxeye_daisy", "symbol": "O"}
+    ],
+    "grids": [
+      { "grid": [ 
+        ["28A5S11D25G12W2R2N3L1O2T"],
+        ["30A4S9D27G10W1A5N3G2P1L"],
+        ["32A3S7D29G8W3A4R1S6G2O1T"],
+        ["34A2S5D24G6W4A3N1D7G5L3P"],
+        ["36A1S3D22G8W2A2R4S2G12N"],
+        ["38A5D20G10W14A1N1S12G1O"], 
+        ["10A37S5D18G3W5N12G14A1T2P"], 
+        ["12A35S3D16G5W3A2N1D9G7L"],
+        ["14A33S1D20G7W1A4S2G15N"],
+        ["16A31S19D18G9W2A5R1D4G12L"],
+        ["18A29S1D17G11W4A3N2S1GR7O"],
+        ["20A27S17D15G13W2A6N3S2T1L"],
+        ["22A1S25D12G16W1N1D2S1G12L2P"],
+        ["24A23D2G14W11A3R2D1GR8N"],
+        ["26A21D1G14W14A1N4S3G11L1O"],
+        ["28A20D16W12A5N1D1S1G10O1T"]
+      ], "y": 66 },
+      { "grid": [ 
+        ["40A4S7D20G10W2R3N1G1T1L1P"],
+        ["42A3S5D22G8W4A2N2S1D9G2O2T"], 
+        ["44A2S3D20G10W2A4R2G1L1P"],
+        ["46A1S1D28G6W4A2N1D8G10L"], 
+        ["48A5D18G2W10A3R5S2G4N1P"],
+        ["50A3D16G4W6A5N2D1S1G11L"],
+        ["52A1D14G6W4A6R2S3D1G7N2P"], 
+        ["54A4D12G8W2A8N1S7G3L1T"],
+        ["56A1S1D12G10W1A9R2G5P1O"], 
+        ["58A1D11G12W2A4N2D6G3L1T"],
+        ["25A3S20D8G12W1A2N1R1G4L2P"], 
+        ["27A2S18D7G13W3A3R1D2G6N2T"], 
+        ["29A1S16D6G15W1N1D4S4G5L1P"],
+        ["31A14D2S3G17W2A4N5D2GR2O1T"], 
+        ["33A12D14G18W1A3N2D1S10G2P"],
+        ["35A10D2G17W4A6N1D2S12G1L"]
+      ], "y": 67 }
+    ]
+  }

@@ -1,0 +1,918 @@
+{
+    "layers": [
+        {
+            "y": 105,
+            "types": [
+                {
+                    "block": "Block{minecraft:water}",
+                    "frequency": "75.06%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "19.98%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.54%"
+                }
+            ]
+        },
+        {
+            "y": 106,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "75.79%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "19.72%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.05%"
+                }
+            ]
+        },
+        {
+            "y": 107,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "76.82%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "18.98%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.19%"
+                }
+            ]
+        },
+        {
+            "y": 108,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "77.50%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "18.15%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.56%"
+                }
+            ]
+        },
+        {
+            "y": 109,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "78.08%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "16.96%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "3.13%"
+                }
+            ]
+        },
+        {
+            "y": 110,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "78.85%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "15.38%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "3.93%"
+                }
+            ]
+        },
+        {
+            "y": 111,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "79.71%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "13.27%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "5.19%"
+                }
+            ]
+        },
+        {
+            "y": 112,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "80.53%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "11.61%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "5.76%"
+                }
+            ]
+        },
+        {
+            "y": 113,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "81.62%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "10.51%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "4.98%"
+                }
+            ]
+        },
+        {
+            "y": 114,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "83.32%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "9.36%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "3.26%"
+                }
+            ]
+        },
+        {
+            "y": 115,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "86.30%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "8.37%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.77%"
+                }
+            ]
+        },
+        {
+            "y": 116,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "87.92%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "7.53%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.61%"
+                }
+            ]
+        },
+        {
+            "y": 117,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "88.98%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "6.76%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.43%"
+                }
+            ]
+        },
+        {
+            "y": 118,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "89.98%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "5.95%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.56%"
+                }
+            ]
+        },
+        {
+            "y": 119,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "90.86%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "5.01%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.67%"
+                }
+            ]
+        },
+        {
+            "y": 120,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "91.75%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "4.29%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.46%"
+                }
+            ]
+        },
+        {
+            "y": 121,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "92.67%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "3.78%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "2.00%"
+                }
+            ]
+        },
+        {
+            "y": 122,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "93.67%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "3.35%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "1.48%"
+                }
+            ]
+        },
+        {
+            "y": 123,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "94.62%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "2.90%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "1.31%"
+                }
+            ]
+        },
+        {
+            "y": 124,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "95.36%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "2.50%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "1.29%"
+                }
+            ]
+        },
+        {
+            "y": 125,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "95.88%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "2.23%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "1.14%"
+                }
+            ]
+        },
+        {
+            "y": 126,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "96.34%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "2.01%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "1.02%"
+                }
+            ]
+        },
+        {
+            "y": 127,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "96.74%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "1.75%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.96%"
+                }
+            ]
+        },
+        {
+            "y": 128,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "97.11%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "1.54%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.83%"
+                }
+            ]
+        },
+        {
+            "y": 129,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "97.45%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "1.33%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.81%"
+                }
+            ]
+        },
+        {
+            "y": 130,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "97.71%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "1.15%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.77%"
+                }
+            ]
+        },
+        {
+            "y": 131,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "97.95%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "1.00%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.68%"
+                }
+            ]
+        },
+        {
+            "y": 132,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "98.18%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.91%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.53%"
+                }
+            ]
+        },
+        {
+            "y": 133,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "98.43%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.77%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.41%"
+                }
+            ]
+        },
+        {
+            "y": 134,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "98.68%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.55%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.48%"
+                }
+            ]
+        },
+        {
+            "y": 135,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "98.87%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.52%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.41%"
+                }
+            ]
+        },
+        {
+            "y": 136,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.01%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.56%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.28%"
+                }
+            ]
+        },
+        {
+            "y": 137,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.12%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.45%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.20%"
+                }
+            ]
+        },
+        {
+            "y": 138,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.29%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.32%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.18%"
+                }
+            ]
+        },
+        {
+            "y": 139,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.58%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.12%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.11%"
+                }
+            ]
+        },
+        {
+            "y": 140,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.73%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.08%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.08%"
+                }
+            ]
+        },
+        {
+            "y": 141,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.81%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.08%"
+                },
+                {
+                    "block": "Block{minecraft:stone}",
+                    "frequency": "0.05%"
+                }
+            ]
+        },
+        {
+            "y": 142,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.85%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.09%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.04%"
+                }
+            ]
+        },
+        {
+            "y": 143,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.90%"
+                },
+                {
+                    "block": "Block{minecraft:dirt}",
+                    "frequency": "0.05%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.04%"
+                }
+            ]
+        },
+        {
+            "y": 144,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.94%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.05%"
+                },
+                {
+                    "block": "Block{minecraft:short_grass}",
+                    "frequency": "0.01%"
+                }
+            ]
+        },
+        {
+            "y": 145,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "99.99%"
+                },
+                {
+                    "block": "Block{minecraft:short_grass}",
+                    "frequency": "0.01%"
+                },
+                {
+                    "block": "Block{minecraft:grass_block}",
+                    "frequency": "0.00%"
+                }
+            ]
+        },
+        {
+            "y": 146,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 147,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 148,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 149,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 150,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 151,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 152,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 153,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 154,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 155,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 156,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 157,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 158,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 159,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 160,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 161,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 162,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 163,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 164,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 165,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 166,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 167,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        },
+        {
+            "y": 168,
+            "types": [
+                {
+                    "block": "Block{minecraft:air}",
+                    "frequency": "100.00%"
+                }
+            ]
+        }
+    ],
+    "start": {
+        "x": -6384,
+        "y": 105,
+        "z": 5616
+    },
+    "end": {
+        "x": -5617,
+        "y": 168,
+        "z": 6383
+    }
+}

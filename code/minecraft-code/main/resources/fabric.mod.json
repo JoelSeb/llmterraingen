@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "llm-terrain-generation",
+	"version": "${version}",
+	"name": "LLM Terrain Generation",
+	"description": "Replacing/Building on top of existing Minecraft Terrain/World Generation with LLMs.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/llm-terrain-generation/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"joel.llm.terrains.LLMTerrainGeneration"
+		],
+		"client": [
+			"joel.llm.terrains.LLMTerrainGenerationClient"
+		]
+	},
+	"mixins": [
+		"llm-terrain-generation.mixins.json",
+		{
+			"config": "llm-terrain-generation.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
