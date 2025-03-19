@@ -18,7 +18,7 @@ My Master's Dissertation Project: "Generating Dynamic Virtual Environments Using
 
 ![Demo](demo.gif)
 
-This GIF demonstrates a statically-generated LLM world being dynamically extended when the player reaches the edge of the terrain. Essentially, a new "tile" is being requested from the Minecraft Client which is translated and sent to Google Gemini to produce a list of generation commands that will continue this terrain in a coherent manner. 
+This GIF demonstrates a statically-generated LLM world being dynamically extended when the player reaches the edge of the terrain. Essentially, a new "tile" is being requested from the Minecraft Client which is translated and sent to Google Gemini to produce a list of generation commands that will continue this terrain in a coherent manner. This particular example was with Google Gemini Pro 2.0, but we can expect that leveraging the Flash 2.0 model would have given us at least a 3x speedup (around 15 seconds to generate the new tile). 
 
 The majority of project files, especially those required to run the modded Minecraft version, take up gigabytes of storage. For the sake of brevity, only the most relevant files have been included in this repository.
 
